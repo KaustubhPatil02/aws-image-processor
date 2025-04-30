@@ -1,0 +1,10 @@
+{
+  "name": "aws-image-processor-backend",
+  "version": "1.0.0",
+  "description": "Backend for AWS Image Processor",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1454.0",
+    "sharp": "^0.32.1"
+  }
+} 
